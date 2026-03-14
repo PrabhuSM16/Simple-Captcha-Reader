@@ -27,7 +27,7 @@ To infer the sequence of characters, a simple pipeline is used:
 
 Clone this repo:
 ```bash
-git clone 
+git clone https://github.com/PrabhuSM16/Simple-Captcha-Reader.git
 cd SimpleCaptchaReader
 ```  
 
